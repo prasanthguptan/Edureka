@@ -1,8 +1,8 @@
-public class Demo2World {
+public class SourceCode3{
 
     // method main(): ALWAYS the APPLICATION entry point
     public static void main (String[] args) {
-	System.out.println ("Demo2 World!");
-	System.out.println ("Demo2 World");
+	System.out.println ("SourceCode3!");
+	System.out.println ("SourceCode3889998!");
     }
 }
